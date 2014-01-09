@@ -3,7 +3,7 @@
         "connector": [
             {
                 "id": "connector-server-1",
-                "host": "127.0.0.1",
+                "host": "54.248.83.174",
                 "port": 4050,
                 "clientPort": 3050,
                 "frontend": true
@@ -12,14 +12,14 @@
         "chat": [
             {
                 "id": "chat-server-1",
-                "host": "127.0.0.1",
+                "host": "54.248.83.174",
                 "port": 6050
             }
         ],
         "gate": [
             {
                 "id": "gate-server-1",
-                "host": "127.0.0.1",
+                "host": "54.248.83.174",
                 "clientPort": 3014,
                 "frontend": true
             }
@@ -28,27 +28,27 @@
         "time": [
             {
                 "id": "time-server-1",
-                "host": "127.0.0.1",
+                "host": "54.248.83.174",
                 "port": 7000
             },
             {
                 "id": "time-server-2",
-                "host": "127.0.0.1",
+                "host": "54.248.83.174",
                 "port": 7001
             },
             {
                 "id": "time-server-3",
-                "host": "127.0.0.1",
+                "host": "54.248.83.174",
                 "port": 7002
             },
             {
                 "id": "time-server-4",
-                "host": "127.0.0.1",
+                "host": "54.248.83.174",
                 "port": 7003
             },
             {
                 "id": "time-server-5",
-                "host": "127.0.0.1",
+                "host": "54.248.83.174",
                 "port": 7004
             }
         ]
@@ -58,7 +58,7 @@
         "connector": [
             {
                 "id": "connector-server-1",
-                "host": "127.0.0.1",
+                "host": "54.248.83.174",
                 "port": 4050,
                 "clientPort": 3050,
                 "frontend": true
@@ -67,14 +67,14 @@
         "chat": [
             {
                 "id": "chat-server-1",
-                "host": "127.0.0.1",
+                "host": "54.248.83.174",
                 "port": 6050
             }
         ],
         "gate": [
             {
                 "id": "gate-server-1",
-                "host": "127.0.0.1",
+                "host": "54.248.83.174",
                 "clientPort": 3014,
                 "frontend": true
             }
@@ -83,27 +83,27 @@
         "time": [
             {
                 "id": "time-server-1",
-                "host": "127.0.0.1",
+                "host": "54.248.83.174",
                 "port": 7000
             },
             {
                 "id": "time-server-2",
-                "host": "127.0.0.1",
+                "host": "54.248.83.174",
                 "port": 7001
             },
             {
                 "id": "time-server-3",
-                "host": "127.0.0.1",
+                "host": "54.248.83.174",
                 "port": 7002
             },
             {
                 "id": "time-server-4",
-                "host": "127.0.0.1",
+                "host": "54.248.83.174",
                 "port": 7003
             },
             {
                 "id": "time-server-5",
-                "host": "127.0.0.1",
+                "host": "54.248.83.174",
                 "port": 7004
             }
         ]
