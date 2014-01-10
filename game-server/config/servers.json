@@ -23,34 +23,6 @@
                 "clientPort": 3014,
                 "frontend": true
             }
-        ],
-
-        "time": [
-            {
-                "id": "time-server-1",
-                "host": "54.248.83.174",
-                "port": 7000
-            },
-            {
-                "id": "time-server-2",
-                "host": "54.248.83.174",
-                "port": 7001
-            },
-            {
-                "id": "time-server-3",
-                "host": "54.248.83.174",
-                "port": 7002
-            },
-            {
-                "id": "time-server-4",
-                "host": "54.248.83.174",
-                "port": 7003
-            },
-            {
-                "id": "time-server-5",
-                "host": "54.248.83.174",
-                "port": 7004
-            }
         ]
 
     },
@@ -78,34 +50,7 @@
                 "clientPort": 3014,
                 "frontend": true
             }
-        ],
-
-        "time": [
-            {
-                "id": "time-server-1",
-                "host": "54.248.83.174",
-                "port": 7000
-            },
-            {
-                "id": "time-server-2",
-                "host": "54.248.83.174",
-                "port": 7001
-            },
-            {
-                "id": "time-server-3",
-                "host": "54.248.83.174",
-                "port": 7002
-            },
-            {
-                "id": "time-server-4",
-                "host": "54.248.83.174",
-                "port": 7003
-            },
-            {
-                "id": "time-server-5",
-                "host": "54.248.83.174",
-                "port": 7004
-            }
         ]
+
     }
 }
