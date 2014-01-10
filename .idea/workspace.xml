@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be166cd4-5b58-405b-a879-868d6ce959fa" name="Default" comment="" />
+    <list default="true" id="be166cd4-5b58-405b-a879-868d6ce959fa" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game-server/config/servers.json" afterPath="$PROJECT_DIR$/game-server/config/servers.json" />
+    </list>
     <ignored path="chatofpomelo-websocket.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,46 +27,10 @@
     <splitter split-orientation="horizontal" split-proportion="0.48666668">
       <split-first>
         <leaf>
-          <file leaf-file-name="servers.json" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="servers.json" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/game-server/config/servers.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="48" column="25" selection-start="1176" selection-end="1189" vertical-scroll-proportion="-30.0" vertical-offset="0" max-vertical-offset="930">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="dictionary.json" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/game-server/config/dictionary.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="180">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="adminUser.json" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/game-server/config/adminUser.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="master.json" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/game-server/config/master.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="9" column="29" selection-start="194" selection-end="194" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="300">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="clientProtos.json" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/game-server/config/clientProtos.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="375">
+                <state line="42" column="28" selection-start="1054" selection-end="1054" vertical-scroll-proportion="0.6048387" vertical-offset="330" max-vertical-offset="930">
                   <folding />
                 </state>
               </provider>
@@ -74,24 +40,6 @@
             <entry file="file://$PROJECT_DIR$/game-server/config/serverProtos.json">
               <provider selected="true" editor-type-id="text-editor">
                 <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="345">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="adminServer.json" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/game-server/config/adminServer.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="9" column="2" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="225">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="connectorHandler.js" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/connectorHandler.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="62" column="31" selection-start="1318" selection-end="1318" vertical-scroll-proportion="0.0" vertical-offset="930" max-vertical-offset="1065">
                   <folding />
                 </state>
               </provider>
@@ -110,10 +58,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="client.js" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="client.js" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/web-server/public/js/client.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="162" column="32" selection-start="4244" selection-end="4244" vertical-scroll-proportion="4.7928996" vertical-offset="0" max-vertical-offset="4170">
+                <state line="162" column="32" selection-start="4244" selection-end="4244" vertical-scroll-proportion="1.5976331" vertical-offset="1620" max-vertical-offset="4170">
                   <folding />
                 </state>
               </provider>
@@ -174,8 +122,8 @@
         <option value="$PROJECT_DIR$/game-server/app/servers/gate/handler/myGateHandler.js" />
         <option value="$PROJECT_DIR$/game-server/app/servers/connector/handler/connectorHandler.js" />
         <option value="$PROJECT_DIR$/game-server/config/adminServer.json" />
-        <option value="$PROJECT_DIR$/game-server/config/servers.json" />
         <option value="$PROJECT_DIR$/game-server/config/master.json" />
+        <option value="$PROJECT_DIR$/game-server/config/servers.json" />
       </list>
     </option>
   </component>
@@ -408,6 +356,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.44308943" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18196371" sideWeight="0.53760165" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17395945" sideWeight="0.5569106" order="0" side_tool="false" content_ui="combo" />
@@ -419,7 +368,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -472,13 +420,6 @@
         <state line="44" column="0" selection-start="990" selection-end="990" vertical-scroll-proportion="0.3321859" vertical-offset="467" max-vertical-offset="6000" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/config/adminServer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="2" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/connectorHandler.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="62" column="31" selection-start="1318" selection-end="1318" vertical-scroll-proportion="0.0" vertical-offset="79" max-vertical-offset="1035">
@@ -514,13 +455,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/config/serverProtos.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="497">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web-server/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="507">
@@ -528,21 +462,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/config/servers.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="25" selection-start="1176" selection-end="1189" vertical-scroll-proportion="-30.0" vertical-offset="0" max-vertical-offset="930">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/game-server/config/dictionary.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="474">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-server/config/adminUser.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="474">
           <folding />
@@ -558,7 +478,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web-server/public/js/client.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="162" column="32" selection-start="4244" selection-end="4244" vertical-scroll-proportion="4.7928996" vertical-offset="0" max-vertical-offset="4170">
+        <state line="162" column="32" selection-start="4244" selection-end="4244" vertical-scroll-proportion="1.5976331" vertical-offset="1620" max-vertical-offset="4170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/config/adminUser.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="474">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/config/serverProtos.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="497">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-server/config/servers.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="28" selection-start="1054" selection-end="1054" vertical-scroll-proportion="0.6048387" vertical-offset="330" max-vertical-offset="930">
           <folding />
         </state>
       </provider>
